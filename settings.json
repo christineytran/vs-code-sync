@@ -106,7 +106,6 @@
     "instantmarkdown.autoCloseServerAndBrowser": false,
     "instantmarkdown.autoOpenBrowser": false,
     "gitProjectManager.baseProjectsFolders": [
-        "C:\\Users\\mothman\\Dropbox\\Projects",
         "C:\\Users\\mothman\\source\\repos",
         "C:\\Users\\Muaz Othman\\source\\repos"
     ],
